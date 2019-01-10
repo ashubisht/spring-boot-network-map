@@ -1,6 +1,7 @@
 # Build output
 target/
 out/
+build/
 .idea/
 .gradle/
 *.class
