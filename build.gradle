@@ -54,7 +54,7 @@ ext {
     spring_version = '1.5.10.RELEASE'
     corda_release_version = '4.0-SNAPSHOT'
     corda_group = 'net.corda'
-    bouncycastle_version = '1.57'
+    bouncycastle_version = '1.68'
 }
 
 configurations {
