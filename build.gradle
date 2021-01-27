@@ -69,7 +69,7 @@ dependencies {
     compile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.21.0.1'
     compile group: 'commons-io', name: 'commons-io', version: '2.6'
     compile group: "com.typesafe", name: "config", version: typesafe_config_version
-    compile group: 'io.github.classgraph', name: 'classgraph', version: '4.4.12'
+    compile group: 'io.github.classgraph', name: 'classgraph', version: '4.8.102'
 
     compile "org.bouncycastle:bcprov-jdk15on:${bouncycastle_version}"
     compile "org.bouncycastle:bcpkix-jdk15on:${bouncycastle_version}"
