@@ -23,7 +23,7 @@ buildscript {
 }
 
 plugins {
-    id 'org.springframework.boot' version '1.5.10.RELEASE'
+    id 'org.springframework.boot' version '2.4.3'
     id 'com.palantir.docker' version '0.19.2'
 }
 
